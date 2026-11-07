@@ -1,0 +1,138 @@
+https://mcp.crh.vc/c/new/provider/gwasai/(index)
+https://api.crh.vc/c/new/provider/crhvc/(index)
+https://new.crh.vc/c/oss/provider/zwasai/(index)
+
+omnibox tool when I type "new." then the most common new artifacts display. 
+Once I type new.*, "like new.a", artifacts that begin with the letter a are displayed in most used order.
+
+For instance artifacts like api's, authentication, admin subdomains and pages for "advertisers" can each be created.
+
+So. the omnibox should prepopulate "https://new.api." and a dropdown menu should show each of the others on the next rows.
+
+"new.a" produces
+
+1. "https://new.api."
+2. "https://new.auth."
+3. "https://new.advertiser."
+4. "https://new.admin."
+
+Let's say that I am working on my BYU CFB business website and I want to import the advertisors I'm seeing spend on byucougars.com.
+
+The next step would be for me to hit the down arrow twice until I was on the "https://new.advertiser." subdomain and then I'd type the letter "b".
+The domains I've registered that whose domains start with the letter "b" would appear in the next dropdown like the following
+
+1. https://new.advertiser.b"ayesbrowser.com"
+2. https://new.advertiser.b"yucfb.com"
+3. https://new.advertiser.b"yumcp.com"
+4. https://new.advertiser.b"
+
+On the other hand if I type "do" that probably means "domain".
+I have a "domain/list" and "domain/orders" that list domains.
+"do"+enter and "o"+enter would choose the dropdown for "domain/orders"
+
+https://mcp.crh.vc/c/oss/domains/orders.txt
+
+includes domains starting with numbers zero through nine, 09.txt
+includes domains starting with letters a through z, az.txt
+
+1. https://mcp.crh.vc/c/oss/domains/orders/0.txt
+2. https://mcp.crh.vc/c/oss/domains/orders/1.txt
+3. https://mcp.crh.vc/c/oss/domains/orders/2.txt
+4. https://mcp.crh.vc/c/oss/domains/orders/3.txt
+5. https://mcp.crh.vc/c/oss/domains/orders/4.txt
+6. https://mcp.crh.vc/c/oss/domains/orders/5.txt
+7. https://mcp.crh.vc/c/oss/domains/orders/6.txt
+8. https://mcp.crh.vc/c/oss/domains/orders/7.txt
+9. https://mcp.crh.vc/c/oss/domains/orders/8.txt
+10. https://mcp.crh.vc/c/oss/domains/orders/9.txt
+1. https://mcp.crh.vc/c/oss/domains/orders/a.txt
+2. https://mcp.crh.vc/c/oss/domains/orders/b.txt
+3. https://mcp.crh.vc/c/oss/domains/orders/c.txt
+4. https://mcp.crh.vc/c/oss/domains/orders/d.txt
+5. https://mcp.crh.vc/c/oss/domains/orders/e.txt
+6. https://mcp.crh.vc/c/oss/domains/orders/f.txt
+7. https://mcp.crh.vc/c/oss/domains/orders/g.txt
+8. https://mcp.crh.vc/c/oss/domains/orders/h.txt
+9. https://mcp.crh.vc/c/oss/domains/orders/i.txt
+10. https://mcp.crh.vc/c/oss/domains/orders/j.txt
+11. https://mcp.crh.vc/c/oss/domains/orders/k.txt
+12. https://mcp.crh.vc/c/oss/domains/orders/l.txt
+13. https://mcp.crh.vc/c/oss/domains/orders/m.txt
+14. https://mcp.crh.vc/c/oss/domains/orders/n.txt
+15. https://mcp.crh.vc/c/oss/domains/orders/o.txt
+16. https://mcp.crh.vc/c/oss/domains/orders/p.txt
+17. https://mcp.crh.vc/c/oss/domains/orders/q.txt
+18. https://mcp.crh.vc/c/oss/domains/orders/r.txt
+19. https://mcp.crh.vc/c/oss/domains/orders/s.txt
+20. https://mcp.crh.vc/c/oss/domains/orders/t.txt
+21. https://mcp.crh.vc/c/oss/domains/orders/u.txt
+22. https://mcp.crh.vc/c/oss/domains/orders/v.txt
+23. https://mcp.crh.vc/c/oss/domains/orders/w.txt
+24. https://mcp.crh.vc/c/oss/domains/orders/x.txt
+25. https://mcp.crh.vc/c/oss/domains/orders/y.txt
+26. https://mcp.crh.vc/c/oss/domains/orders/z.txt
+
+"domain/orders" produces a larger list of all domains I've ever order on porkbun or 101domains since 2018.
+
+The purpose of this list would be to have a dropdown that includes items I registered but
+no longer pay for for.
+
+"domains/list" on the other hand would populate the first letters of the currently registered domains.
+That has vastly fewer domain names and currently 22 chars.
+
+for instance the following 22 chars exist in domains/list/
+
+The number "2" creates a dropdown with three domains
+
+1. domains/list/"2"
+
+1.a "2a", produces an omnibox populated with "https://new.2adhd.com/c/oss/"
+1.b "2h", produces an omnibox populated with "https://new.2haiku.com/c/oss/"
+1.c "2l", produces an omnibox populated with "https://new.2luvai.com/c/oss/"
+
+2. domains/list/"a"
+
+"a"+"p" chooses aephenso.com
+"a"+"n" chooses andrewcamarata.com
+
+2.a "a" and "p" produces an omnibox populated with "https://new.aephenso.com/c/oss/"
+2.b "a" and "n" produces an omnibox populated with "https://new.andrewcamarata.com/c/oss/"
+
+3. domains/list/"b"
+
+https://mcp.crh.vc/c/oss/domains/list/b.txt
+
+```txt
+bayesbrowser.com
+brns.domains
+bshaueter.com
+byucbb.com
+byucfb.com
+byumcp.com
+```
+
+3.1. ""
+3.2. ""
+3.3. ""
+3.4. ""
+3.5. ""
+3.6. ""
+
+4. https://mcp.crh.vc/c/oss/domains/list/c.txt
+5. https://mcp.crh.vc/c/oss/domains/list/d.txt
+6. https://mcp.crh.vc/c/oss/domains/list/e.txt
+7. https://mcp.crh.vc/c/oss/domains/list/f.txt
+8. https://mcp.crh.vc/c/oss/domains/list/g.txt
+9. https://mcp.crh.vc/c/oss/domains/list/i.txt
+10. https://mcp.crh.vc/c/oss/domains/list/j.txt
+11. https://mcp.crh.vc/c/oss/domains/list/k.txt
+12. https://mcp.crh.vc/c/oss/domains/list/l.txt
+13. https://mcp.crh.vc/c/oss/domains/list/m.txt
+14. https://mcp.crh.vc/c/oss/domains/list/n.txt
+15. https://mcp.crh.vc/c/oss/domains/list/p.txt
+16. https://mcp.crh.vc/c/oss/domains/list/q.txt
+17. https://mcp.crh.vc/c/oss/domains/list/r.txt
+18. https://mcp.crh.vc/c/oss/domains/list/s.txt
+19. https://mcp.crh.vc/c/oss/domains/list/t.txt
+20. https://mcp.crh.vc/c/oss/domains/list/u.txt
+21. https://mcp.crh.vc/c/oss/domains/list/w.txt
